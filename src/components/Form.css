@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://crm.radzen.com/assets/images/login-background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'roboto', sans-serif;
+}
+.style {
+    display: block;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 50%;
+    width: 33%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 33%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    position: relative;
+}
+.h1style{
+    color: aqua;
+}
+.styleme{
+    margin-top: 70px;
+}
+.mb-3{
+    line-height: 50px;
+}
+.form-label {
+    color: #fff;
+}
+.form-text {
+    color: #fff;
+}
+.form-check-label{
+    color: #fff;
+}
+.btn:hover{
+    background-color:  aqua;
+}
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: var(--pure);
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.imgstyle{
+    width: 150px;
+    padding-bottom: 30px;
+    overflow: hidden;
+    position: absolute;
+    top: calc(-150px/2);
+    left: calc(46% - 50px);
+
+}
